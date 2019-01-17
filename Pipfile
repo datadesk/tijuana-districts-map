@@ -1,0 +1,17 @@
+[[source]]
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+esridump = "*"
+jupyterlab = "*"
+requests = "*"
+geopandas = "*"
+matplotlib = "*"
+descartes = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.6"
